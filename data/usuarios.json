@@ -1,0 +1,14 @@
+[
+    {
+      "id": "1",
+      "email": "correo@correo.com",
+      "password": "aaaaa11/",
+      "rol": "administrador"
+    },
+    {
+      "id": "2",
+      "email": "cliente@cliente.com",
+      "password": "bbbbb22/",
+      "rol": "cliente"
+    }
+  ]

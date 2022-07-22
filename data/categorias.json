@@ -1,0 +1,14 @@
+[
+    {
+      "id": "1",
+      "nombre": "TV-Series"
+    },
+    {
+      "id": "2",
+      "nombre": "Movies"
+    },
+    {
+      "id": "3",
+      "nombre": "Music"
+    }
+  ]

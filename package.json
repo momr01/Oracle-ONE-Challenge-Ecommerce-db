@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-jsonserver",
+  "version": "1.0.0",
+  "description": "e-commerce alura project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Maximiliano Montaña",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
