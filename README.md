@@ -1,4 +1,4 @@
-# Alura Challenge | Oracle One | Back-End - E-Commerce
+# Alura Challenge | Oracle One | Back-End | E-Commerce
 
 ### Database json-server
 
