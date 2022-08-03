@@ -13,15 +13,15 @@ GitHub repositorio: [https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-fr
 ## Imágenes del proyecto
 
 ![Gral1](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-front/blob/main/assets/proyecto-propio/gral1.PNG)
-
+* * *
 ![Gral2](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-front/blob/main/assets/proyecto-propio/gral2.PNG)
-
+* * *
 ![Gral3](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-front/blob/main/assets/proyecto-propio/gral3.PNG)
-
+* * *
 ![Gral4](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-front/blob/main/assets/proyecto-propio/gral5.PNG)
-
+* * *
 ![Gral5](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-front/blob/main/assets/proyecto-propio/gral7.PNG)
-
+* * *
 ![Gral6](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-front/blob/main/assets/proyecto-propio/gral9.PNG)
 
 
